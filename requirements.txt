@@ -1,0 +1,8 @@
+PySide6
+requests
+pytest
+pytest-qt
+pyinstaller
+os
+QFontDatabase
+QPixmap
